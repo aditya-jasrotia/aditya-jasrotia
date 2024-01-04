@@ -2,7 +2,7 @@
           👉🏻from India 🇮🇳
           👉🏻currently in Canada 🇨🇦
 - 👀 I’m interested in everything that works on some kind of code
-- 🌱 I know Python and I'm currently learning java
+- 🌱 I know Python and I'm currently learning Java
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on: adityajasrotia3132@gamil.com
 
