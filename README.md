@@ -1,6 +1,4 @@
-- ✌🏻Hi, I’m @aditya-jasrotia,
-          👉🏻from India 🇮🇳
-          👉🏻currently in Canada 🇨🇦
+- ✌🏻Hi, I’m @aditya-jasrotia 🇮🇳|🇨🇦
 - 🧠 I’m interested in everything that works on some kind of code
 - 👨🏻‍💻 I know Python and I'm currently learning Java
 - 👀 I’m looking to collaborate on open source projects
